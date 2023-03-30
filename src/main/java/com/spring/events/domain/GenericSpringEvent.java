@@ -1,7 +1,6 @@
 package com.spring.events.domain;
 
 public class GenericSpringEvent<T> {
-
     private T what;
 
     protected  boolean success;
