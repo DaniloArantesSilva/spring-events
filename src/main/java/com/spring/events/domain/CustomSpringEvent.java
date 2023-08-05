@@ -4,9 +4,6 @@ public class CustomSpringEvent {
 
     private String message;
 
-    private String name;
-
-
     public CustomSpringEvent(String message) {
         this.message = message;
     }
